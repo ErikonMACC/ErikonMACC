@@ -29,7 +29,7 @@ If you are looking for a web developer or have any questions, feel free to reach
 ## 📊 Most Used Languages
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikonmacc&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=erikonmacc&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:2ac3de&height=120&section=footer&text=Thanks%20for%20visiting%20my%20profile!&fontSize=20&fontColor=c0caf5&animation=twinkling"/>
